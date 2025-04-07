@@ -1,0 +1,3 @@
+pwd -> printing the current path (where you are)
+ls OR ll -> print all the files/directories inside the folder you are in
+la -> same with ls and ll, but shows the hidden files
